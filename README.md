@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maciej Niemiec</h1>
 <h3 align="center">React.js Developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 💬 Ask me about **JavaScript, React.js**
+- 🌱 I’m currently learning... **Next.js**
 
-- 📫 How to reach me **niemiec.maciej@gmail.com**
+- 💬 Ask me about... **JavaScript, React.js**
+
+- 📫 How to reach me... **niemiec.maciej@gmail.com**
+
+- ⚡ Fun fact... **I'm talking to my dog while programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
