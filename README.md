@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Niemiec</h1>
 <h3 align="center">React.js Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thorezns&label=Profile%20views&color=0e75b6&style=flat" alt="thorezns" /> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JavaScript, React.js**
